@@ -15,7 +15,7 @@
         "start": "react-scripts start",
         "build": "react-scripts build",
         "test": "react-scripts test",
-        "coverage": "react-scripts test --collectCoverage",
+        "coverage": "react-scripts test --collectCoverage --watchAll",
         "eject": "react-scripts eject"
     },
     "browserslist": {
