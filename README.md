@@ -2,11 +2,13 @@
 
 Run `npm install` && `npm start` to start the project
 
-### Watch 📼:
+### Watch 📼 && Read:
 
 https://www.loom.com/share/66659daa6a6b48d7b1363d227dcfe838
 
 https://www.loom.com/share/a6d479e43fc84c68bfc8e64fa26f1d9e
+
+https://docs.github.com/en/actions/using-workflows/about-workflows
 
 ### Todo
 
